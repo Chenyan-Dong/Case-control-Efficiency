@@ -1,4 +1,4 @@
-# University of Auckland Hons Project - Case-control Efficiency
+# Case-control Efficiency (University of Auckland Hons Project)
 
 Here is the R code for radomize the data and bulid the shiny app.
 

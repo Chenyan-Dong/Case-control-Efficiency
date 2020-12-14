@@ -1,0 +1,12 @@
+name: ncase
+title: ncase
+username:
+account: chenyan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3299877
+bundleId: 3904130
+url: https://chenyan.shinyapps.io/ncase/
+when: 1606303285.54256
+asMultiple: FALSE
+asStatic: FALSE
